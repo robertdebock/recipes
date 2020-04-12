@@ -37,10 +37,10 @@ Resting, rising and proving should be done with a cover over the dough.
 
 ### Proving and baking (2 hour or overnight)
 
-|Time|Instruction                                                        |
-|----|-------------------------------------------------------------------|
-|0:00|Shape a ball, put the dough in the banneton for 1 hour.            |
-|0:00|Heat the oven (with pan in) to 250 degrees Celcius for 1 hour.     |
-|1:00|Gently flip the dough into the hot pan, put in oven for 30 minutes.|
-|1:30|Take the bread out of the pan, let it cool down for 30 minutes.    |
-|2:00|Ready to eat!                                                      |
+|Time|Instruction                                                         |
+|----|--------------------------------------------------------------------|
+|0:00|Shape a ball, put the dough in the banneton for 1 hour or overnight.|
+|0:00|Heat the oven (with pan in) to 250 degrees Celcius for 1 hour.      |
+|1:00|Gently flip the dough into the hot pan, put in oven for 30 minutes. |
+|1:30|Take the bread out of the pan, let it cool down for 30 minutes.     |
+|2:00|Ready to eat!                                                       |
