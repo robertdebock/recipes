@@ -28,12 +28,12 @@ It takes quite some time to make this bread, so please understand all steps and 
 
 Resting, rising and proving should be done with a cover over the dough.
 
-|Time|Instruction                                                    |
-|----|---------------------------------------------------------------|
-|0:00|Knead the flowers and water. Let the dough rest for 10 minutes.|
-|0:10|Add salt and knead, put away for 1st rise for 1 hour.          |
-|1:10|Knead, put away for 2nd rise for 2 hours.                      |
-|3:10|Rising is done.                                                |
+|Time|Instruction                                                           |
+|----|----------------------------------------------------------------------|
+|0:00|Knead the flowers, water and yeast. Let the dough rest for 10 minutes.|
+|0:10|Add salt and knead, put away for 1st rise for 1 hour.                 |
+|1:10|Knead, put away for 2nd rise for 2 hours.                             |
+|3:10|Rising is done.                                                       |
 
 ### Proving and baking (2 hour or overnight)
 
