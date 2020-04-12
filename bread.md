@@ -4,7 +4,7 @@
 
 - 380 grams of flower.
 - 135 grams of whole flower.
-- 365 grams of water at 37 degrees Celcius.
+- 345 grams of water at 37 degrees Celcius.
 - 12 grams of salt.
 - 2 grams of yeast.
 
