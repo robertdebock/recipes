@@ -21,8 +21,8 @@
 
 It takes quite some time to make this bread, so please understand all steps and adjust your timings in order to have bread on time. I use these timings.
 
-- Start in the early morning (07:00) to have bread ready by lunch.
-- Start in the evening (20:00) to have bread ready by breakfast.
+- Start in the early morning (08:00 or earlier) to have bread ready by lunch.
+- Start in the evening (20:00 or later) to have bread ready by breakfast.
 
 ### Prepare (3 hours)
 
@@ -32,8 +32,8 @@ Resting, rising and proving should be done with a cover over the dough.
 |----|----------------------------------------------------------------------|
 |0:00|Knead the flowers, water and yeast. Let the dough rest for 10 minutes.|
 |0:10|Add salt and knead, put away for 1st rise for 1 hour.                 |
-|1:10|Knead, put away for 2nd rise for 2 hours.                             |
-|3:10|Rising is done.                                                       |
+|1:10|Knead, put away for 2nd rise for 2 hours or overnight in the fridge.  |
+|3:10 or next morning|Rising is done.                                       |
 
 ### Proving and baking (2 hour or overnight)
 
