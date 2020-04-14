@@ -1,5 +1,7 @@
 # Bread
 
+![bread](https://github.com/robertdebock/recipes/raw/master/images/bread.png "Bread made with this recipe")
+
 ## Ingredients
 
 - 380 grams of flower.
