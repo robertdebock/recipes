@@ -5,8 +5,8 @@
 ## Ingredients
 
 - 380 grams of flower.
-- 135 grams of whole flower.
-- 345 grams of water at 37 degrees Celcius.
+- 120 grams of whole flower.
+- 325 grams of water at 37 degrees Celcius.
 - 12 grams of salt.
 - 2 grams of yeast.
 
@@ -23,8 +23,9 @@
 
 It takes quite some time to make this bread, so please understand all steps and adjust your timings in order to have bread on time. I use these timings.
 
-- Start in the early morning (08:00 or earlier) to have bread ready by lunch.
-- Start in the evening (20:00 or later) to have bread ready by breakfast.
+- Start in the morning to have bread ready by dinner.
+- Start in the evening to have bread ready by lunch.
+- Having bread ready by breakfast is difficult, because you need a 1 hour rise, 30 minutes bake and 30 minutes rest. Next best thing is to have a bread ready in the evening, store it under a cloth and eat it in the morning.
 
 ### Prepare (3 hours)
 
