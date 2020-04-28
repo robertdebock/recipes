@@ -2,27 +2,30 @@
 
 ## Ingredients
 
-- Flour.
-- Water.
+- 100 grams of whole flour.
+- 100 grams of water.
+- 1 gram of yeast.
 
 ## Requirements
 
-- A glass pot or vessel of about 1 liter.
+- A glass pot or vessel of about 1/2 liter.
 - A grams scale.
 - Spatula.
 
-Take a note of the weight of the pot or vessel.
+## Starting
+
+Mix all ingredients together. You'll end up with a very wet dough.
+
+Put the lid **loosely** on the jar, keep it at room temperature.
 
 ## Feeding
 
-This schedule helps to get your sourdough started. Day 7 is repeated in all future days.
+1. Take some sourdough off to bake of simply through it away.
+2. Add about 100 grams of flour.
+3. Add about 100 grams of water.
+4. Mix and put away again.
 
-|Day|Mature starter|Flour|Water|
-|---|--------------|-----|-----|
-|1  |0gr           |100gr|150ml|
-|2  |70gr          |100gr|115ml|
-|3  |70gr          |100gr|115ml|
-|4  |70gr          |100gr|100ml|
-|5  |70gr          |100gr|100ml|
-|6  |50gr          |100gr|100ml|
-|7+ |25gr          |100gr|100ml|
+|Temperature              |Interval|
+|-------------------------|--------|
+|room, 21 degrees Celcius |1 day   |
+|fridge, 7 degrees Celcius|3 days  |
