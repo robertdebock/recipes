@@ -5,9 +5,17 @@
 ## Ingredients
 
 - 500 grams of flour, you can mix strong white with whole flower.
-- 325 grams of water at 37 degrees Celcius.
+- 300 grams of water at 37 degrees Celcius.
 - 12 grams of salt.
-- 2 grams of yeast.
+- 5 grams of yeast.
+
+For larger or smaller breads, use these measures.
+
+| size   | flour (grams) | water (grams) | salt (grams) | yeast (grams) |
+|--------|---------------|---------------|--------------|---------------|
+| small  | 300           | 180           | 7            | 3             |
+| normal | 500           | 300           | 12           | 5             |
+| large  | 1000          | 600           | 24           | 10            |
 
 ## Requirements
 
